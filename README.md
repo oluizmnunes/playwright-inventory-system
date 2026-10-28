@@ -1,4 +1,8 @@
-# Solution Overview
+# Playwright Inventory System
+
+This repository contains an end-to-end Playwright test suite for an inventory management application. It covers authentication, product management, dashboard navigation, and inventory workflows, using the Page Object Model, reusable fixtures, and GitHub Actions for automated test runs.
+
+## Solution Overview
 
 ## Folder structure (high-level)
 
